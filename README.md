@@ -1,2 +1,2 @@
 # StudyML
-Let's study Machine Learning!
+Example codes for lectures
