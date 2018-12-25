@@ -1,3 +1,5 @@
+# https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+
 from classifier import *
 from classifier import algorithms
 import matplotlib.pyplot as plt
