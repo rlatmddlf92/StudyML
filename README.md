@@ -1,2 +1,3 @@
 # StudyML
-Example codes for lectures
+kaggle competition address: https://www.kaggle.com/c/titanic
+
